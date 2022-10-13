@@ -3,4 +3,4 @@
 Jing Gu and Kai Zhang, Duke Kunshan University, 2022
 
 ## Abstract
-This repo contains sample codes for the RBM which can be trained to learn the Boltzmann distribution of Ising configurations.
+This repo contains sample codes for the RBM which can be trained to learn the Boltzmann distribution of Ising configurations. The input should consists of binary units of {-1, +1}.
